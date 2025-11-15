@@ -5,9 +5,9 @@ You can convert speech to text and even open websites using your voice.
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
-### 1️⃣ **Speech_Recognition.ipynb**
+###  **Speech_Recognition.ipynb**
 A simple speech-to-text notebook.
 
 **Features:**
@@ -18,7 +18,7 @@ A simple speech-to-text notebook.
 
 ---
 
-### 2️⃣ **Speech_Recognition_to_website.ipynb**
+###  **Speech_Recognition_to_website.ipynb**
 A voice-controlled browser opener.
 
 **Features:**
@@ -31,7 +31,7 @@ Say **"youtube.com"** → Microsoft Edge opens YouTube.
 
 ---
 
-## 🔧 What You Need to Install
+##  What You Need to Install
 
 Before running the notebooks, install these Python libraries:
 
