@@ -39,3 +39,11 @@ Before running the notebooks, install these Python libraries:
 pip install SpeechRecognition
 pip install pyttsx3
 pip install pyaudio
+```
+If pyaudio gives errors on Windows, install it using pipwin:
+
+```bash
+pip install pipwin
+pipwin install pyaudio
+```
+No need to install webbrowser — it is a built-in Python module.
